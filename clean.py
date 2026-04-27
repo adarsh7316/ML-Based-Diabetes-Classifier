@@ -30,7 +30,7 @@ print("Duplicates removed:", duplicates_removed)
 print("Rows left:", len(df))
 
 # Clean the BMI column
-# We only want BMI values between 15 and 6
+# We only want BMI values between 15 and 60
 print("\nStep 4: Cleaning BMI values...")
 original_length = len(df)
 
